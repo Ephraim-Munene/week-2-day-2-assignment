@@ -13,7 +13,7 @@ This repository contains my solutions to three core JavaScript programming exerc
 
 ---
 ### results output
-<img src="images/image.png"
+<img src="images/image.png">
 ## Setup & Running Instructions
 
 
